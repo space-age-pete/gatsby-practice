@@ -1,5 +1,6 @@
 ---
 title: "something"
+slug: "/firstPost"
 ---
 
 ## First Post
